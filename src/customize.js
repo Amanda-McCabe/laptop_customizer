@@ -1,5 +1,4 @@
 import React from 'react';
-import { FEATURES } from './store';
 import Features from './features';
 
 export default function customize(props){
