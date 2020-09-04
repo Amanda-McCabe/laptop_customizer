@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import './App.css';
-import Header from './header';
-import {FEATURES} from './store';
-import Customize from './customize';
-import Cart from './cart';
+import Header from './Header';
+import {FEATURES} from './STORE';
+import Customize from './Customize';
+import Cart from './Cart';
 
 
 
