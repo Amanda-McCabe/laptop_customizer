@@ -1,5 +1,5 @@
 import React from 'react';
-import Total from './total';
+import Total from './Total';
 import Summary from './CartSummary';
 
 
